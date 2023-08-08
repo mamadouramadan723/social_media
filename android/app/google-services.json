@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "110062783219",
+    "project_id": "media-social-0808232230",
+    "storage_bucket": "media-social-0808232230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110062783219:android:3a5e27fa591f416a314586",
+        "android_client_info": {
+          "package_name": "com.rmdbusiness.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110062783219-hplfnbjdlrfvb4efh611urks5if0q0je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rmdbusiness.sniffsocial",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "110062783219-hs3f560kstjf9mjvf0lsvcia8uhel6r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg8jVBlLLckgOYWmCCpp0XKTuYEHGpUik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110062783219-h7evoq2as6q46v2d34qlpn3uht941ghs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110062783219-tuk1doo6o55qaukunnmnv2933qlaam1s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmdbusiness.sniffsocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
